@@ -14,7 +14,7 @@ Diese Website präsentiert die Leistungen, Werte und das Team von City Immobilie
 
 ## 📸 Impressionen
 
-<img src="assets/images/hero_3.jpg" alt="Hero" width="430" height="586" />
+<!-- <img src="assets/images/hero_3.jpg" alt="Hero" width="430" height="586" /> -->
 <img src="assets/images/city-immobili.png" alt="City Immobilien" width="430" height="228" />
 <img src="assets/images/team.png" alt="Team" width="430" height="228" />
 
