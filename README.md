@@ -85,7 +85,7 @@ assets/
 
 ## 🏙️ Vorschau
 
-![Vorschau](assets/images/hero_3.jpg)
+![Vorschau](assets/hero.png)
 
 ---
 
