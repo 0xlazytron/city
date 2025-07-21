@@ -31,7 +31,7 @@ Diese Website präsentiert die Leistungen, Werte und das Team von City Immobilie
 ## 📂 Projektstruktur
 
 ```
-index-two.html
+index.html
 assets/
   icons/
     logo.png
