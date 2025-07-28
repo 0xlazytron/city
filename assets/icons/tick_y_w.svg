@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30" height="31" viewBox="0 0 30 31" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg" class="w-[30px] h-[30px]"
+                                    preserveAspectRatio="none">
+                                    <circle cx="15" cy="15.1289" r="15" fill="#F7A71E"></circle>
+                                    <path
+                                        d="M8 17.1289L11.2331 19.5537C11.6618 19.8752 12.2677 19.8017 12.607 19.387L21 9.12891"
+                                        stroke="white" stroke-width="3" stroke-linecap="round"></path>
+                                </svg>

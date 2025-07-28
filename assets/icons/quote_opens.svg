@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36" height="31" viewBox="0 0 36 31" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg" class="flex-grow-0 flex-shrink-0"
+                                    preserveAspectRatio="none">
+                                    <path fill-rule="evenodd" clip-rule="evenodd"
+                                        d="M0 15.3198V30.1435H14.8237V15.3198H6.35301C6.35301 10.6419 10.1458 6.84911 14.8237 6.84911V0.496094C6.63606 0.496094 0 7.13257 0 15.3198ZM36 6.84911V0.496094C27.8128 0.496094 21.1763 7.13257 21.1763 15.3198V30.1435H36V15.3198H27.5293C27.5293 10.6419 31.3221 6.84911 36 6.84911Z"
+                                        fill="black" fill-opacity="0.34"></path>
+                                </svg>

@@ -1,0 +1,5 @@
+@media (min-width: 340px) and (max-width: 639px) {
+  #card-hero {
+    margin-top: -12px; /* 48px */
+  }
+}

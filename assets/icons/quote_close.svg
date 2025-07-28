@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36" height="31" viewBox="0 0 36 31" fill="none"
+                                xmlns="http://www.w3.org/2000/svg" class="flex-grow-0 flex-shrink-0 w-9 h-[29.65px]"
+                                preserveAspectRatio="xMidYMid meet">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M36 15.3208L36 0.497131L21.1763 0.49713L21.1763 15.3208L29.647 15.3208C29.647 19.9987 25.8542 23.7915 21.1763 23.7915L21.1763 30.1445C29.3639 30.1445 36 23.5081 36 15.3208ZM5.55398e-07 23.7915L0 30.1445C8.18723 30.1445 14.8237 23.5081 14.8237 15.3208L14.8237 0.497129L2.59186e-06 0.497128L1.29593e-06 15.3208L8.47069 15.3208C8.47069 19.9987 4.67789 23.7915 5.55398e-07 23.7915Z"
+                                    fill="black" fill-opacity="0.34"></path>
+                            </svg>

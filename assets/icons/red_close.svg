@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30" height="31" viewBox="0 0 30 31" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg" class="w-[30px] h-[30px]"
+                                    preserveAspectRatio="xMidYMid meet">
+                                    <circle cx="15" cy="15.1289" r="15" fill="#FF0004"></circle>
+                                    <path d="M8.33333 21.7969L21.6667 8.46354" stroke="white" stroke-width="2"></path>
+                                    <path d="M21.6667 21.7969L8.33334 8.46354" stroke="white" stroke-width="2"></path>
+                                </svg>
